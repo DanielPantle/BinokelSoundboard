@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Binokel Soundboard</string>
+    <string name="button1_text">Wer is nochmal dran?</string>
+    <string name="button2_text">Oh des wär mein Spiel gwese!</string>
+    <string name="button3_text">Oooh krieg ich des?</string>
+    <string name="button4_text">Hä, was is nochmal Trumpf?</string>
+    <string name="button5_text">Des da!</string>
+    <string name="button6_text">Des hat der doch gmeldet!</string>
+    <string name="button7_text">Des hat se doch gmeldet!</string>
+    <string name="button8_text">Die klopft ja\nimmer drauf!</string>
+    <string name="button9_text">Der klopft ja\nimmer drauf!</string>
+</resources>
